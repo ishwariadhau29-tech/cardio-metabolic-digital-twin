@@ -1,0 +1,7 @@
+patient_id,display_name,age,sex,bmi,hba1c_pct,total_cholesterol_mg_dl,systolic_bp_mmhg,family_history_t2d,medical_history
+TT-104,Jordan Lee,52,F,31.2,6.3,218,136,1,Prediabetes; hypertension
+TT-207,Casey Morgan,38,M,24.8,5.4,182,118,0,None reported
+TT-318,Sam Patel,64,M,29.1,6.7,246,148,1,Type 2 diabetes; dyslipidemia
+TT-426,Alex Rivera,47,F,27.4,5.8,204,128,0,Gestational diabetes history
+TT-531,Morgan Ellis,42,F,22.5,5.2,172,112,0,None reported
+TT-642,Avery Brooks,59,M,34.6,8.2,262,154,1,Type 2 diabetes; hypertension; dyslipidemia
